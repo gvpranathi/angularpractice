@@ -1,0 +1,114 @@
+{
+    "carsIndex": [
+        {
+            "id": 1,
+            "brand": "Ford",
+            "model": "Mustang",
+            "year": 1985,
+            "image": "http://192.168.70.1:8080/images/mustang.jpg",
+            "starRating":5.0,
+            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+            "userreview" : 5
+        },
+        {
+            "id": 2,
+            "brand": "Nissan",
+            "model": "Altima",
+            "year": 2017,
+            "image": "http://192.168.70.1:8080/images/altima.jpg",
+            "starRating":4.0,
+            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+            "userreview" : 4
+        },
+        {
+            "id": 3,
+            "brand": "Nissan",
+            "model": "Armada",
+            "year": 2017,
+            "image": "http://192.168.70.1:8080/images/armada.jpg",
+            "starRating":4.1,
+            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+            "userreview" : 3
+        },
+        {
+            "id": 4,
+            "brand": "Nissan",
+            "model": "Frontier",
+            "year": 2017,
+            "image": "http://192.168.70.1:8080/images/frontier.jpg",
+            "starRating":4.4,
+            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+            "userreview" : 3.4
+        },
+        {
+            "id": 5,
+            "brand": "Nissan",
+            "model": "Maxima",
+            "year": 2017,
+            "image": "http://192.168.70.1:8080/images/maxima.jpg",
+            "starRating":4.2,
+            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+            "userreview" : 3.2
+        },
+        {
+            "id": 6,
+            "brand": "Ford",
+            "model": "Fiesta",
+            "year": 2015,
+            "image": "http://192.168.70.1:8080/images/fiesta.jpg",
+            "starRating":4.6,
+            "description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+            "userreview" : 3.9
+        },
+        {
+            "id": 7,
+            "brand": "Ford",
+            "model": "Focus",
+            "year": 2015,
+            "image": "http://192.168.70.1:8080/images/focus.jpg",
+            "starRating":4.7,
+            "description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+            "userreview" : 4.2
+        },
+        {
+            "id": 8,
+            "brand": "Ford",
+            "model": "Taurus",
+            "year": 2015,
+            "image": "http://192.168.70.1:8080/images/taurus.jpg",
+            "starRating":4.1,
+            "description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+            "userreview" : 3.8
+        },
+        {
+            "id": 9,
+            "brand": "Honda",
+            "model": "Accord",
+            "year": 2015,
+            "image": "http://192.168.70.1:8080/images/accord.jpg",
+            "starRating":4.9,
+            "description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+            "userreview" : 4.5
+        },
+        {
+            "id": 10,
+            "brand": "Honda",
+            "model": "Amaze ",
+            "year": 2015,
+            "image": "http://192.168.70.1:8080/images/amaze.jpg",
+            "starRating":4.0,
+            "description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+            "userreview" : 3
+        },
+        {
+            "id": 11,
+            "brand": "Honda",
+            "model": "Civic ",
+            "year": 2015,
+            "image": "http://192.168.70.1:8080/images/civic.jpg",
+            "starRating":4.8,
+            "description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+            "userreview" : 4.8
+        }
+    ]
+}
